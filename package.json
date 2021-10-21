@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "homepage": "https://jpmunozm.github.io/react-vite/",
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
